@@ -19,3 +19,7 @@ Izohlar // va # belgilari orqali qilnadi. /* kodlar */ oraliqni ma'lum oraliqni 
 
 # 5-dars 
 - Arifmetik amallar.
+
+# 6-dars
+- Taqqoslash amallari
+
