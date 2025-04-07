@@ -1,6 +1,6 @@
 <?php
 //Mavzu: Polymorphism.
-//Polymorphism – bu obyektga bog‘liq holda metodlarning har xil bajarilishi yoki bir xil metod nomi bilan turli klasslarda turlicha vazifani bajarish qobiliyatidir. Bu OOPda meros olish (inheritance) va metodlarni qayta yozish (method overriding) orqali amalga oshiriladi.
+//Polymorphism  (poli... ko'p va yun. morphe — shakl)  – bu obyektga bog‘liq holda metodlarning har xil bajarilishi yoki bir xil metod nomi bilan turli klasslarda turlicha vazifani bajarish qobiliyatidir. Bu OOPda meros olish (inheritance) va metodlarni qayta yozish (method overriding) orqali amalga oshiriladi.
 
 class Users
 {

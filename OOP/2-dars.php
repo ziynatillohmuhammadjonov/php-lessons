@@ -5,7 +5,7 @@
 // protected - bunda xus. yoki met. faqat klasni ichida va u meros olgan klaslarda foydalaniladi
 // private - bunda xus yoki met. faqat klassni ichida (e'lon qilingan) foydalaniladi
 
-// Bu klasni xususiyatlarin tashqaridan foydalanishdan berkitish unga class ichidagi metodlaridan murojaat qilish
+//Inkapsulyatsiya so'zi lotincha "in capsula" - qobiqda joylashtirish so'zidan olingan. Bu klasni xususiyatlarin tashqaridan foydalanishdan berkitish unga class ichidagi metodlaridan murojaat qilish
 
 class Student
 {

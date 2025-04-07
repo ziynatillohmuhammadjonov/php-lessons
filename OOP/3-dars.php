@@ -1,6 +1,6 @@
 <?php
 //Mavzu: Inheritance. Magic methods.
-// Inheritance - ma'lum bir klasni o'zini xususiyat va tamoyillarin boshqa klasga meros sifatida qoldirish. Ajdod klasdan xus. va met. larni avlod klass o'ziga olish.
+// Inheritance (Meros) - ma'lum bir klasni o'zini xususiyat va tamoyillarin boshqa klasga meros sifatida qoldirish. Ajdod klasdan xus. va met. larni avlod klass o'ziga olish.
 
 class Person
 {
