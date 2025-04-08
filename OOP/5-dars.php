@@ -90,7 +90,7 @@ $workDay->getWeather();
 
 // Namespace - nom maydoni. Bu turli joylardan import qilayotganda klass interface trait larni afzallik berib. Export qiladigan joy uchun `namespace` kalit so'zi bilan nom belgilab keyin uni required qilgan joyda `use` kalit so'zi bilan olib uni qiymatini o'zgartirish imkonini beradi.
 
-require 'Traits/Device';
+require 'Traits/Device.php';
 require 'Interfaces/Device.php';
 require 'Classes/Device.php';
 
