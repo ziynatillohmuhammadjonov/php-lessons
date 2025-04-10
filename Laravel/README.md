@@ -30,3 +30,9 @@ Route::get('/user', function(){
 })
 
 ```
+
+# 2-dars
+- Laravel controller lar `php artisan make:controller \Admin\AdminController` orqali qo'shiladi. Ular mos ravishda Http/Controller ichida ochiladi. Uni keyin Routeda callback function o'rniga [ichida] nomi va metodi beriladi.
+```Route::get('/users',[AdminController::class, @index])```orqali beriladi.
+- Controllerda Request $request orqali kelgan so'rovlarni olishimiz validatsiya qilishimiz mumkin.
+- 
