@@ -1,7 +1,7 @@
 <?php
 // Mavzu: Funksiyalar va funksiyada argument tushunchasi
 
-function myFirstFunction(...$numbers) // bunda argumentlar numbers massivida saqlanadni
+function myFirstFunction(...$numbers) // bunda argumentlar numbers massivida saqlanadi
 {
     print_r($numbers);
 }
